@@ -69,7 +69,7 @@
         category: "pressure",
         subcategory: "pressure-sensors",
         desc: "Range: -1 to 1000 bar. High accuracy pressure sensors for industrial applications",
-        img: "/assets/images/M5200U5200 Pressure Sensors.png"      
+        img: "~assets/images/M5200U5200 Pressure Sensors.png"      
       },
       {
         name: "85 CV Flush Mount Pressure Transmitter",
