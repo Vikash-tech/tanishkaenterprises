@@ -69,35 +69,35 @@
         category: "pressure",
         subcategory: "pressure-sensors",
         desc: "Range: -1 to 1000 bar. High accuracy pressure sensors for industrial applications",
-        img: "~assets/images/M5200U5200 Pressure Sensors.png"      
+        img: "assets/images/M5200U5200 Pressure Sensors.png"      
       },
       {
         name: "85 CV Flush Mount Pressure Transmitter",
         category: "pressure",
         subcategory: "pressure-transmitters",
         desc: "Flush mount pressure transmitter for hygienic and industrial applications.",
-        img: "/assets/images/85 CV Flush Mount Pressure Transmitter.png"      
+        img: "assets/images/85 CV Flush Mount Pressure Transmitter.png"      
       },
       {
         name: "TE Position Sensors & Transmitters",
         category: "pressure",
         subcategory: "position-sensors",
         desc: "LVDT, RVDT & TILT sensors for precise position measurement.",
-        img: "/assets/images/TE Position Sensors & Transmitters.png"      
+        img: "assets/images/TE Position Sensors & Transmitters.png"      
       },
       {
         name: "TX 430 Pressure Gauge & Switch",
         category: "pressure",
         subcategory: "pressure-gauges",
         desc: "Digital pressure gauge and differential pressure switch.",
-        img: "/assets/images/TX 430 Pressure Gauge & Switch.png"      
+        img: "assets/images/TX 430 Pressure Gauge & Switch.png"      
       },
       {
         name: "DPS Series Pressure Switch",
         category: "pressure",
         subcategory: "pressure-switches",
         desc: "Differential pressure switch for industrial monitoring.",
-        img: "/assets/images/DPS Series Pressure Switch.png"      
+        img: "assets/images/DPS Series Pressure Switch.png"      
       },
       // ===== HUMIDITY & TEMPERATURE SENSORS =====
       {
